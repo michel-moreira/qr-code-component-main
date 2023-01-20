@@ -1,0 +1,11 @@
+:root {
+  --card: hsl(0, 0%, 100%);
+  --background: hsl(212, 45%, 89%);
+  --text: hsl(220, 15%, 55%);
+  --heading: hsl(218, 44%, 22%);
+  --attribution: hsl(228, 45%, 44%);
+
+  --paragraph: 15px;
+
+  --font: "Outfit", sans-serif;
+}
